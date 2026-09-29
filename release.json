@@ -1,0 +1,12 @@
+{
+  "version": "1.0.54",
+  "versionCode": 55,
+  "file": "https://github.com/aprende-ingles/ecosistema-financiero-360-app/releases/latest/download/EcosistemaFinanciero360.apk",
+  "summary": "Mejoras de estabilidad, sincronización de datos y experiencia de uso.",
+  "changes": [
+    "Corrección de sincronización y recuperación de datos pendientes.",
+    "Mejoras de seguridad y protección por usuario.",
+    "Interfaz más estable en navegación y uso diario."
+  ],
+  "date": "29 de septiembre de 2026"
+}
