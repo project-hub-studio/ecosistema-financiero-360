@@ -1,12 +1,11 @@
 {
-  "version": "1.0.54",
-  "versionCode": 55,
-  "file": "https://github.com/aprende-ingles/ecosistema-financiero-360-app/releases/latest/download/EcosistemaFinanciero360.apk",
-  "summary": "Mejoras de estabilidad, sincronización de datos y experiencia de uso.",
+  "version": "1.0.55",
+  "versionCode": 56,
+  "file": "https://github.com/project-hub-studio/ecosistema-financiero-360/releases/download/v1.0.55/EcosistemaFinanciero360.apk",
+  "summary": "Corrección de pagos de deuda y trazabilidad del origen del dinero.",
   "changes": [
-    "Corrección de sincronización y recuperación de datos pendientes.",
-    "Mejoras de seguridad y protección por usuario.",
-    "Interfaz más estable en navegación y uso diario."
+    "Reducir una deuda exige seleccionar la cuenta, fondo o categoría de origen.",
+    "Los pagos actualizan de forma coherente la deuda, el origen y los movimientos."
   ],
   "date": "29 de septiembre de 2026"
 }
