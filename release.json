@@ -1,7 +1,7 @@
 {
   "version": "1.0.55",
   "versionCode": 56,
-  "file": "https://github.com/project-hub-studio/ecosistema-financiero-360/releases/download/v1.0.55/EcosistemaFinanciero360.apk",
+  "file": "https://github.com/project-hub-studio/ecosistema-financiero-360/releases/download/v1.0.55/EcosistemaFinanciero360-1.0.55.apk",
   "summary": "Corrección de pagos de deuda y trazabilidad del origen del dinero.",
   "changes": [
     "Reducir una deuda exige seleccionar la cuenta, fondo o categoría de origen.",
@@ -9,3 +9,4 @@
   ],
   "date": "29 de septiembre de 2026"
 }
+
